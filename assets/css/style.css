@@ -1,3 +1,4 @@
+
 /**
 * Template Name: NiceAdmin - v2.5.0
 * Template URL: https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/
@@ -1293,4 +1294,10 @@ p {
   text-align: center;
   font-size: 13px;
   color: #012970;
+}
+=======
+.right-content-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
